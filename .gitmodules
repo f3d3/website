@@ -1,3 +1,6 @@
 [submodule "themes/monopriv"]
 	path = themes/monopriv
 	url = https://gitlab.com/kskarthik/monopriv
+[submodule "f3d3.github.io"]
+	path = f3d3.github.io
+	url = git@github.com:f3d3/f3d3.github.io.git
