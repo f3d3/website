@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://f3d3.github.io/"
 languageCode = "en-us"
 title = "Federico Moretto"
 theme = "monopriv"
+publishDir = "f3d3.github.io"
